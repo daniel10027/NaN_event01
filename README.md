@@ -21,7 +21,7 @@ User
 
 Participant
 ````
-  id_participant
+
   #id_user
   #id_event
   
@@ -51,7 +51,7 @@ event
  date_fin
  description
  photo
- pric
+ prix
  #id_client
  #id_user
 ```
